@@ -1,0 +1,4 @@
+projectName: microlab_fortinet
+packageVersion: 1.0.0
+packageName: microlab_fortinet
+library: asyncio
